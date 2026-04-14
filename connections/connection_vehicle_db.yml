@@ -1,0 +1,6 @@
+unique_name: connection_vehicle_db
+label: connection_vehicle_db
+object_type: connection
+as_connection: vehicle_db
+database: vehicle_db
+schema: public
