@@ -1,0 +1,6 @@
+unique_name: connection_tpch
+label: connection_tpch
+object_type: connection
+as_connection: tpch_oltp
+database: tpch
+schema: tpch_oltp
